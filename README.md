@@ -22,32 +22,7 @@ Detection & Logging: Snort, Zeek
 
 Reporting: Markdown (for documentation)
 
-Project Structure
-
-network-traffic-analysis-incident-response/
-│-- README.md
-│-- setup/
-│   ├── environment-setup.md
-│   ├── tools-installation.md
-│-- attack-simulations/
-│   ├── port-scanning.md
-│   ├── arp-spoofing.md
-│   ├── dns-poisoning.md
-│-- analysis/
-│   ├── traffic-capture.md
-│   ├── anomaly-detection.md
-│-- incident-response/
-│   ├── mitigation-strategies.md
-│-- scripts/
-│   ├── automate_capture.sh
-│-- results/
-│   ├── findings.md
-└── images/
-    ├── network-diagram.png
-    ├── screenshots/
-
-
-Steps to Get Started
+**Steps to Get Started**
 
 Set Up the Environment:
 
@@ -72,7 +47,7 @@ Document Findings:
 Record analysis results and incident response measures.
 
 
-How to Use
+**How to Use**
 
 Clone the repository:
 
@@ -83,7 +58,7 @@ Follow the setup guides in the setup/ directory.
 Execute the attack simulations and analyze the results.
 
 
-Contributing
+**Contributing**
 
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to contribute.
 
